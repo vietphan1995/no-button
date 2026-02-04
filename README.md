@@ -6,6 +6,8 @@
 
 [https://github.com/vietphan1995/no-button.git](https://github.com/vietphan1995/no-button.git)
 
+✉️ [Send to email: vietphan95@outlook.com](mailto:vietphan95@outlook.com?subject=register_idea:no-button_project&body=left_your_idea)
+
 No button is a mobile phone design concept which has no button in the age of smart device.
 
 ![image.png](image.png)
@@ -15,6 +17,8 @@ No button have enough functions of one smart device in no button context like ki
 ![image.png](image%201.png)
 
 No button improves experience with operating system.
+
+.
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
